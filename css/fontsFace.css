@@ -1,0 +1,20 @@
+@font-face {
+    font-family: Dosis-Bold;
+    src: url(../fonts/Dosis-Bold.ttf);
+    font-size: 85px;
+    font-weight: 800;
+}
+
+@font-face {
+    font-family: Dosis-Light;
+    src: url(../fonts/Dosis-Light.ttf);
+    font-size: 15px;
+    font-weight: 600;
+}
+
+@font-face {
+    font-family: Dosis-SemiBold;
+    src: url(../fonts/Dosis-SemiBold.ttf);
+    font-size: 85px;
+    font-weight: 600;
+}
